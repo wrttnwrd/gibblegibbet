@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+    <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+      <channel>
+        <title>GibbleGibbet</title>
+        <description>Lots of nonsense</description>
+        <link>http://www.gibblegibbet.com/</link>
+        <language>en</language>
+        <copyright>gibblegibbet.com</copyright>
+        <pubDate>Fri, June 25, 2010</pubDate>
+        <lastBuildDate>Fri, June 25, 2010</lastBuildDate>
+        <generator>gibblegibbet.com</generator>
+        <item>
+          <title>GibbleGibbet! Nonsense words take over the world!</title>
+          <description>Grammarians, Wheel of Fortune competitors in a panic.</description>
+          <link>http://www.gibblegibbet.com/nonsense-words-take-over.html</link>
+          <guid isPermaLink="true">http://www.gibblegibbet.com/nonsense-words-take-over.html</guid>
+          <pubDate>Fri, June 25, 2010</pubDate>
+        </item>
+        <item>
+          <title>	President declares state of emergency</title>
+          <description>Nonsense zombies are now on the loose.</description>
+          <link>http://www.gibblegibbet.com/nonsense-words-take-over.html</link>
+          <guid isPermaLink="true">http://www.gibblegibbet.com/nonsense-words-take-over.html</guid>
+          <pubDate>Fri, June 25, 2010</pubDate>
+        </item>
+      </channel>
+    </rss>
